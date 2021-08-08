@@ -6,6 +6,6 @@ Languages to be used: JAVA and SQL.
 
 The contents of this repsitory are as follows:
 1) Folder NRX07, this folder conatains the entire java code which includes the GUI (pictures included) within the src sub folder. It is in a java application blueprint.
-2) Folder SQL contains the SQL code (needed to be run before the java program), the flowchart of the application and the data extracted from the internet in .csv format in the Data folder. You can copy and paste this data in the structure created by the sql code if you do not want to extract data from the internet (sraping takes 3+ hours).
+2) Folder SQL contains the SQL code (needed to be run before the java program) and the data extracted from the internet in .csv format in the Data folder. You can copy and paste this data in the structure created by the sql code if you do not want to extract data from the internet (sraping takes 3+ hours).
 3) Folder Documents contains the working paper and a powerpoint presentation on the working of the application.
 4) Folder Test contains the java code used to test the mysql connector and the working of the jsoup package.
